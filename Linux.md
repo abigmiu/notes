@@ -212,3 +212,20 @@ ls -l --block-size=k
 # ls 文件大小排序
 
 从大到小 `ls -Sl`  从小到大 `ls -Slr` 
+
+
+
+# 配置 alias
+
+```shell
+vim ~/.bashrc
+
+// 添加
+alias pull = 'git pull'
+
+
+vim ~/.bash_profile
+// 添加
+source ~/.bashrc
+```
+
