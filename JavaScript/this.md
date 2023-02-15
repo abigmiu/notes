@@ -58,3 +58,5 @@ window.a.fn();
 **严格模式下this指向undefined**
 
 
+
+[JavaScript中的this - 掘金 (juejin.cn)](https://juejin.cn/post/6844903488304971789)
